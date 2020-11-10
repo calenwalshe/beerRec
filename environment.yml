@@ -3,5 +3,7 @@ channels:
 
 packages:
 - jupyter-panel-proxy
+dependencies:
 - numpy
+- pandas
 - pickle
