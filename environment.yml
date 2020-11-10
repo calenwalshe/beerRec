@@ -1,9 +1,8 @@
 channels:
 - pyviz
-
-packages:
-- jupyter-panel-proxy
+- conda-forge
 dependencies:
+- jupyter-panel-proxy
 - numpy
 - pandas
 - pickle
