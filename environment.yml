@@ -4,3 +4,4 @@ channels:
 packages:
 - jupyter-panel-proxy
 - numpy
+- pickle
