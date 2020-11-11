@@ -5,3 +5,4 @@ dependencies:
 - jupyter-panel-proxy
 - numpy
 - pandas
+- surprise
